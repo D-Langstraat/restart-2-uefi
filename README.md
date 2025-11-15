@@ -11,7 +11,7 @@ Checks admin rights
 Elevates if necessary
 Displays the banner
 Verifies UEFI support
-Prompts for confirmation
+Prompts for confirmation.
 
 3. Press Y to proceed.
 Then the 5-second countdown begins.
